@@ -1,0 +1,1 @@
+idb3.002.leúèá{"catalog_batch":{"Node":{"time_ns":1744742949963576800,"node_catalog_id":0,"node_id":"my_node","ops":[{"RegisterNode":{"node_id":"my_node","instance_id":"78c33094-d00e-4d99-a4a5-6b591ae8b217","registered_time_ns":1744742949963576800,"core_count":20,"mode":["Core"]}}]}},"sequence_number":2}
